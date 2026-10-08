@@ -1,5 +1,5 @@
 # Hi, I'm Ifti Haque 👋
-🚀 Software Developer | React.js + Spring Boot | Competitive Programmer  
+🚀 Software Developer | React.js + Java Spring Boot | Competitive Programmer  
 📍 Gazipur, Bangladesh  
 
 ---
